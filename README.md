@@ -45,7 +45,9 @@
       }
       
     }
+<img width="1741" height="743" alt="image" src="https://github.com/user-attachments/assets/3e59124c-554f-419d-8504-ae1fe04669cc" />
 
+fritzing.com tinkercad gibi
 
 
 
